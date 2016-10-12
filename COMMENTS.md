@@ -1,4 +1,4 @@
-# Комментарии к DjangoGirls tutorial
+# Комментарии к Django Girls Tutorial
 
 ## [Установка Django](https://tutorial.djangogirls.org/ru/django_installation/)
 
